@@ -10,7 +10,7 @@ header {
       display: flex; /* Resposável por colocar os itens na mesma linha (lado a lado) */
       align-items: center; /*Alinhar os itens do nosso Header para o centro*/
       justify-content: space-evenly; /* Tradução:justificar-conteúdo: espaço uniformemente. Alinhar os itens igualmente dentro da página */
-      padding: 15px;  /* Cuida do Preenchimento */
+      padding: 20px;  /* Cuida do Preenchimento */
       background-color: rgb(56, 49, 49); /* Cor de fundo do nosso Cabeçalho/Header */
       overflow: hidden; /* */
       line-height: 200px; /* altura da linha */
@@ -19,7 +19,7 @@ header {
 
 header > h1 {  /* Selecionamos aqui a cor da letra do nosso H1 ou seja, do nosso título */
     color: white; /* chamamos a propriedade color e definimos uma cor em questão */ 
-    font-size: 45px;
+    font-size: 30px;
 }
 
 
